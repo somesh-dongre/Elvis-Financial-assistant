@@ -1,0 +1,13 @@
+pyttsx3
+SpeechRecognition
+datetime
+wikipedia
+googlesearch-python
+yfinance
+num2words
+pipwin
+kivy
+mplfinance
+pretty_html_table
+html2image
+pandas
